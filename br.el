@@ -16,6 +16,8 @@
 ;;
 ;; This file is part of the OO-Browser.
 ;;
+;; License: GPL-2+
+;;
 ;; DESCRIPTION:  
 ;; DESCRIP-END.
 
